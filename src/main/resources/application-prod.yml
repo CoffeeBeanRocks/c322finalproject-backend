@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://postgres:0qvXN1bgs4Z2FMjns4tS@containers-us-west-133.railway.app:7485/railway
+    url: jdbc:postgresql://containers-us-west-133.railway.app:7485/railway
     username: postgres
     password: 0qvXN1bgs4Z2FMjns4tS
     name: c322-finalproject
